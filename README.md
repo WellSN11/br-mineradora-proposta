@@ -1,0 +1,1 @@
+# br-mineradora-proposta
