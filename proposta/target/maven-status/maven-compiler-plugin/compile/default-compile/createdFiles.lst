@@ -1,0 +1,13 @@
+org\br\mineradora\repository\ProposalRepository.class
+org\br\mineradora\service\ProposalService.class
+org\br\mineradora\MyEntity.class
+org\br\mineradora\message\KafkaEvent.class
+org\br\mineradora\controller\ProposalController.class
+org\br\mineradora\dto\ProposalDetailsDTO.class
+org\br\mineradora\entity\ProposalEntity.class
+org\br\mineradora\dto\ProposalDTO.class
+org\br\mineradora\dto\ProposalDTO$ProposalDTOBuilder.class
+org\br\mineradora\GreetingResource.class
+META-INF\panache-archive.marker
+org\br\mineradora\dto\ProposalDetailsDTO$ProposalDetailsDTOBuilder.class
+org\br\mineradora\service\impl\ProposalServiceImpl.class
